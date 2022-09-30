@@ -9,11 +9,32 @@
       <link>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C Notes</title>
+      <link>https://hadjshell.github.io/posts/c-notes/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/c-notes/</guid>
+      <description>C Notes Reference C语言程序设计 - 翁恺 Kernighan, B.W. &amp;amp; Ritchie, D.M. (1988) The C programming language. 2nd ed.. Englewood Cliffs, N.J.: Prentice Hall. 导论 计算机的思维方式：枚举
+算法改进暴力枚举
+程序的执行：
+解释：借助一个程序，那个程序试图理解你的程序，然后按照你的要求执行
+编译：借助一个程序，把你的程序翻译成机器语言，然后执行机器语言的程序
+编译是将源程序翻译成可执行的目标代码，翻译与执行是分开的；而解释是对源程序的翻译与执行一次性完成，不生成可存储的目标代码。这只是表象，二者背后的最大区别是：对解释执行而言，程序运行时的控制权在解释器而不在用户程序；对编译执行而言，运行时的控制权在用户程序。
+语言本身没有解释和编译之分，只是具体执行方式不同
+现代两种执行方式已经没有过大的区别，各有优劣
+现代编程语言语法上差异很小，几乎都是C-like语言
+某些场景，例如操作系统，只能用C写
+语言的能力/适用领域主要决定因素：
+库 传统 FORTRAN -&amp;gt; BCPL -&amp;gt; B -&amp;gt; C
+C implementations give a better understanding of how the machine behaves. There is no language runtime environment or virtual machine between you and the underlying machine.</description>
+    </item>
+    
     <item>
       <title>Hello world!</title>
       <link>https://hadjshell.github.io/posts/hello-world/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       
       <guid>https://hadjshell.github.io/posts/hello-world/</guid>
       <description>Hello, world!</description>
