@@ -9,14 +9,27 @@
       <link>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOLID Principle</title>
+      <link>https://hadjshell.github.io/posts/solid_notes/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/solid_notes/</guid>
+      <description>SOLID principles complement each other, and work together in union. Single Responsibility Principle Every software component should have one and only one responsibility / reason to change
+Group the responsibilities in a sensible way
+Cohesion - 内聚
+The degree to which the various parts of a software component are related Example of garbage classification Aim for high cohesion Coupling - 耦合
+The level of inter dependency between various software components Aim for loose coupling Changes are inevitable, so we need higher cohesion and loose coupling</description>
+    </item>
+    
     <item>
       <title>C Notes</title>
       <link>https://hadjshell.github.io/posts/c-notes/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hadjshell.github.io/posts/c-notes/</guid>
-      <description>C Notes Reference C语言程序设计 - 翁恺 Kernighan, B.W. &amp;amp; Ritchie, D.M. (1988) The C programming language. 2nd ed.. Englewood Cliffs, N.J.: Prentice Hall. 导论 计算机的思维方式：枚举
+      <description>Reference C语言程序设计 - 翁恺 Kernighan, B.W. &amp;amp; Ritchie, D.M. (1988) The C programming language. 2nd ed.. Englewood Cliffs, N.J.: Prentice Hall. 导论 计算机的思维方式：枚举
 算法改进暴力枚举
 程序的执行：
 解释：借助一个程序，那个程序试图理解你的程序，然后按照你的要求执行
@@ -28,7 +41,8 @@
 某些场景，例如操作系统，只能用C写
 语言的能力/适用领域主要决定因素：
 库 传统 FORTRAN -&amp;gt; BCPL -&amp;gt; B -&amp;gt; C
-C implementations give a better understanding of how the machine behaves. There is no language runtime environment or virtual machine between you and the underlying machine.</description>
+C implementations give a better understanding of how the machine behaves. There is no language runtime environment or virtual machine between you and the underlying machine.
+标准：ANSI C -&amp;gt; C99</description>
     </item>
     
     <item>
