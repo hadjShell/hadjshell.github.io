@@ -22,6 +22,18 @@
     </item>
     
     <item>
+      <title>JavaScript Notes</title>
+      <link>https://hadjshell.github.io/posts/js-notes/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/js-notes/</guid>
+      <description>Introduction Three pillars in web development
+HTML - Content - Nouns CSS - Style and layout - Adjectives JavaScript - The real programming language to build web applications - Verbs What applications that JavaScript can build?
+Front-end apps React, Angular, Vue, etc. Back-end apps Node.js Native mobile apps React Native, Ionic Native desktop apps Electron JavaScript is a multi-paradigm interpreted language
+Modern JavaScript uses just-in-time compilation (no portable files) JavaScript runtime</description>
+    </item>
+    
+    <item>
       <title>SOLID Principle</title>
       <link>https://hadjshell.github.io/posts/solid-notes/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>

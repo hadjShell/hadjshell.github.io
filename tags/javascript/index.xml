@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on Hadjshell</title>
+    <link>https://hadjshell.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on Hadjshell</description>
+    <image>
+      <title>Hadjshell</title>
+      <url>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript Notes</title>
+      <link>https://hadjshell.github.io/posts/js-notes/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/js-notes/</guid>
+      <description>Introduction Three pillars in web development
+HTML - Content - Nouns CSS - Style and layout - Adjectives JavaScript - The real programming language to build web applications - Verbs What applications that JavaScript can build?
+Front-end apps React, Angular, Vue, etc. Back-end apps Node.js Native mobile apps React Native, Ionic Native desktop apps Electron JavaScript is a multi-paradigm interpreted language
+Modern JavaScript uses just-in-time compilation (no portable files) JavaScript runtime</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/tags/%E5%88%80%E6%B3%95how-to-play-with-sword%EF%B8%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/tags/%E5%88%80%E6%B3%95how-to-play-with-sword%EF%B8%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript Notes</title>
+      <link>https://hadjshell.github.io/posts/js-notes/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/js-notes/</guid>
+      <description>Introduction Three pillars in web development
+HTML - Content - Nouns CSS - Style and layout - Adjectives JavaScript - The real programming language to build web applications - Verbs What applications that JavaScript can build?
+Front-end apps React, Angular, Vue, etc. Back-end apps Node.js Native mobile apps React Native, Ionic Native desktop apps Electron JavaScript is a multi-paradigm interpreted language
+Modern JavaScript uses just-in-time compilation (no portable files) JavaScript runtime</description>
+    </item>
+    
     <item>
       <title>C Notes (Chinese Version)</title>
       <link>https://hadjshell.github.io/posts/c-notes/</link>
