@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>心法(How to be a sword master🥷) on Hadjshell</title>
+    <link>https://hadjshell.github.io/tags/%E5%BF%83%E6%B3%95how-to-be-a-sword-master/</link>
+    <description>Recent content in 心法(How to be a sword master🥷) on Hadjshell</description>
+    <image>
+      <title>Hadjshell</title>
+      <url>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/tags/%E5%BF%83%E6%B3%95how-to-be-a-sword-master/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOLID Principle</title>
+      <link>https://hadjshell.github.io/posts/solid-notes/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/solid-notes/</guid>
+      <description>SOLID principles complement each other, and work together in union. Single Responsibility Principle Every software component should have one and only one responsibility / reason to change
+Group the responsibilities in a sensible way
+Cohesion - 内聚
+The degree to which the various parts of a software component are related Example of garbage classification Aim for high cohesion Coupling - 耦合
+The level of inter dependency between various software components Aim for loose coupling Changes are inevitable, so we need higher cohesion and loose coupling</description>
+    </item>
+    
+  </channel>
+</rss>

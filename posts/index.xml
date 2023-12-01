@@ -11,13 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time To Read A Book: The Pragmatic Programmer</title>
+      <link>https://hadjshell.github.io/posts/the-pragmatic-programmer/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/the-pragmatic-programmer/</guid>
+      <description>Intro As a undergraduate who majors in computer science, I was focusing on learning prgramming languages, popular frameworks, university or online lectures in the last three years. My past learning goal was to get myself into the computer science field as well as build a solid theory foundation on which I can step and thrive in my future career. Therefore, most of the books that I read in this period can be categorised into so-called &amp;ldquo;tool-books&amp;rdquo; or &amp;ldquo;textbooks&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>SOLID Principle</title>
-      <link>https://hadjshell.github.io/posts/solid_notes/</link>
+      <link>https://hadjshell.github.io/posts/solid-notes/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hadjshell.github.io/posts/solid_notes/</guid>
+      <guid>https://hadjshell.github.io/posts/solid-notes/</guid>
       <description>SOLID principles complement each other, and work together in union. Single Responsibility Principle Every software component should have one and only one responsibility / reason to change
 Group the responsibilities in a sensible way
 Cohesion - 内聚
@@ -31,7 +40,7 @@ The level of inter dependency between various software components Aim for loose 
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hadjshell.github.io/posts/c-notes/</guid>
-      <description>Reference C 语言程序设计 - 翁恺 Kernighan, B.W. &amp;amp; Ritchie, D.M. (1988) The C programming language. 2nd ed.. Englewood Cliffs, N.J.: Prentice Hall. 导论 计算机的思维方式：枚举
+      <description>导论 计算机的思维方式：枚举
 算法改进暴力枚举
 程序的执行：
 解释：借助一个程序，那个程序试图理解你的程序，然后按照你的要求执行
@@ -43,7 +52,12 @@ The level of inter dependency between various software components Aim for loose 
 某些场景，例如操作系统，只能用 C 写
 语言的能力/适用领域主要决定因素：
 库 传统 FORTRAN -&amp;gt; BCPL -&amp;gt; B -&amp;gt; C
-C implementations give a better understanding of how the machine behaves. There is no language runtime environment or virtual machine between you and the underlying machine.</description>
+C implementations give a better understanding of how the machine behaves. There is no language runtime environment or virtual machine between you and the underlying machine.
+标准：ANSI C -&amp;gt; C99
+C is a general-purpose programming language.
+指针是 C 的灵魂
+C 的应用场景：
+操作系统，编译器 嵌入式系统 驱动程序 底层驱动 图形引擎、图像处理、声音效果 Ｃ是一种工业语言</description>
     </item>
     
     <item>
