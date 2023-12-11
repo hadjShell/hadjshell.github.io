@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/tags/%E5%88%80%E6%B3%95how-to-play-with-sword%EF%B8%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/tags/%E5%88%80%E6%B3%95how-to-play-with-sword%EF%B8%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React Notes</title>
+      <link>https://hadjshell.github.io/posts/react-notes/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/react-notes/</guid>
+      <description>React.js Note Intro React is a JavaScript library for rendering UI Components React is all about Components A component is a piece of the UI that has its own logic and appearance We don&amp;rsquo;t have to manipulate DOM manually anymore with components A component is just a JavaScript function Their names always begin with a capital letter They return JSX markup React application begins at a &amp;ldquo;root&amp;rdquo; component JSX JavaScript XML A syntax extension for JavaScript that lets you write HTML-like markup inside a .</description>
+    </item>
+    
     <item>
       <title>JavaScript Notes</title>
       <link>https://hadjshell.github.io/posts/js-notes/</link>

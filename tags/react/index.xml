@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on Hadjshell</title>
+    <link>https://hadjshell.github.io/tags/react/</link>
+    <description>Recent content in React on Hadjshell</description>
+    <image>
+      <title>Hadjshell</title>
+      <url>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://hadjshell.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hadjshell.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React Notes</title>
+      <link>https://hadjshell.github.io/posts/react-notes/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadjshell.github.io/posts/react-notes/</guid>
+      <description>React.js Note Intro React is a JavaScript library for rendering UI Components React is all about Components A component is a piece of the UI that has its own logic and appearance We don&amp;rsquo;t have to manipulate DOM manually anymore with components A component is just a JavaScript function Their names always begin with a capital letter They return JSX markup React application begins at a &amp;ldquo;root&amp;rdquo; component JSX JavaScript XML A syntax extension for JavaScript that lets you write HTML-like markup inside a .</description>
+    </item>
+    
+  </channel>
+</rss>
